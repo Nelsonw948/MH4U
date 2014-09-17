@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <monster>
+        <Name>Agnaktor</Name>
+
+        <Elements>Fire</Elements>
+
+        <Ailments>Fireblight</Ailments>
+
+        <Description>Also known as fire-pike wyverns, Agnaktor use their tough
+			beaks and great strength to burrow through rock. However, their
+			hardened-lava armor becomes soft when they burrow underground or are
+			attacked with fire or explosives.		</Description>
+    </monster>
+    <monster>
+        <Name>Glacial Agnaktor</Name>
+
+        <Elements>Ice, Water</Elements>
+
+        <Ailments>Iceblight, Waterblight</Ailments>
+
+        <Description />
+    </monster>
+
+</resources>
